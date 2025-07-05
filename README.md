@@ -27,6 +27,6 @@ Cada rama tendrá un proyecto Android independiente correspondiente a la semana 
 - ## ¿Cómo cambiar de guía?
 
 Puedes cambiar entre ramas con el siguiente comando:
-
+Ejemplo:
 ```bash
-git checkout guia1
+ git checkout Guia01
