@@ -1,6 +1,9 @@
 # MG220764_DSM
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Omar%20Maldonado&fontSize=40&fontColor=ffffff)
-![Link Animado](https://i.imgur.com/jfvfTeR.gif)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:aa00ff,100:00ccff&height=200&section=header&text=Omar%20Maldonado&fontSize=40&fontColor=ffffff)
+<p align="center">
+  <img src="https://i.imgur.com/jfvfTeR.gif" alt="Link Animado" />
+</p>
+
 ![Demo App](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 
@@ -15,6 +18,8 @@ Cada rama tendrá un proyecto Android independiente correspondiente a la semana 
 - `guia2` → Proyecto correspondiente a la Guía 2.
 - `guia3` → Proyecto correspondiente a la Guía 3.
 - etc...
+
+![Demo App](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 - ## ¿Cómo cambiar de guía?
 
