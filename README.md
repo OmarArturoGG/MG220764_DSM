@@ -1,5 +1,8 @@
 # MG220764_DSM
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:aa00ff,100:00ccff&height=200&section=header&text=Omar%20Maldonado&fontSize=40&fontColor=ffffff)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:aa00ff,100:00ccff&height=200&section=header&text=Omar%20Maldonado&fontSize=40&fontColor=ffffff" alt="Header" />
+</p>
+
 <p align="center">
   <img src="https://i.imgur.com/jfvfTeR.gif" alt="Link Animado" />
 </p>
