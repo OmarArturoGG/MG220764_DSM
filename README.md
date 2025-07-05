@@ -17,9 +17,9 @@ Cada rama tendrá un proyecto Android independiente correspondiente a la semana 
 ## Estructura
 
 - `main` → Rama base sin ningún proyecto específico.
-- `guia1` → Proyecto correspondiente a la Guía 1.
-- `guia2` → Proyecto correspondiente a la Guía 2.
-- `guia3` → Proyecto correspondiente a la Guía 3.
+- `Guia01` → Proyecto correspondiente a la Guía 1.
+- `Guia02` → Proyecto correspondiente a la Guía 2.
+- `Guia03` → Proyecto correspondiente a la Guía 3.
 - etc...
 
 ![Demo App](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
